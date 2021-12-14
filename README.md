@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mjcanon4
-- 👀 I’m currently working on something cool...
-- 🌱 I’m currently learning how to get my first job in tech
-- 💞️ I’m looking to collaborate on open source projects to learn more!
+- 👀 I’m currently researching how to be effective in blockchain technology
+- 🌱 I’m currently working as a Software Engineer at JP Morgan
 - 📫 How to reach me: michaeljamescanon@gmail.com
 
 <!---
