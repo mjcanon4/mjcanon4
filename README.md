@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mjcanon4
-- 👀 I’m currently researching how to be effective in blockchain technology
 - 🌱 I’m currently working as a Software Engineer at JP Morgan
 - 📫 How to reach me: michaeljamescanon@gmail.com
 
